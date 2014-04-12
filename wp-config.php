@@ -16,13 +16,13 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define('DB_NAME', 'database_name_here');
+define('DB_NAME', '407458');
 
 /** Имя пользователя MySQL */
-define('DB_USER', 'username_here');
+define('DB_USER', '407458');
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', 'password_here');
+define('DB_PASSWORD', 'JPFaatpBXyDiIdsJ');
 
 /** Имя сервера MySQL */
 define('DB_HOST', 'localhost');
@@ -42,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'впишите сюда уникальную фразу');
-define('SECURE_AUTH_KEY',  'впишите сюда уникальную фразу');
-define('LOGGED_IN_KEY',    'впишите сюда уникальную фразу');
-define('NONCE_KEY',        'впишите сюда уникальную фразу');
-define('AUTH_SALT',        'впишите сюда уникальную фразу');
-define('SECURE_AUTH_SALT', 'впишите сюда уникальную фразу');
-define('LOGGED_IN_SALT',   'впишите сюда уникальную фразу');
-define('NONCE_SALT',       'впишите сюда уникальную фразу');
+define('AUTH_KEY',         'fw8qhio2q1gtuiwfh');
+define('SECURE_AUTH_KEY',  'fwqhiowef2q1gt87uiwfh');
+define('LOGGED_IN_KEY',    '6dsw234gn2542tb2vc2');
+define('NONCE_KEY',        'fw4qhio2q1f2f23g2gtuiwfh');
+define('AUTH_SALT',        'fw3qhio213wefq1gtuiwfh');
+define('SECURE_AUTH_SALT', 'fwqhio2q1gtuiwfh');
+define('LOGGED_IN_SALT',   'fwq42hio2q1gtuiwfh');
+define('NONCE_SALT',       'f34wqhi78o1gtuiwfh');
 
 /**#@-*/
 
